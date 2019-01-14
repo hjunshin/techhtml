@@ -1,6 +1,7 @@
 # techhtml
 
 > Nuxt.js project
+> https://techhtml.tk/
 
 ## Build Setup
 
